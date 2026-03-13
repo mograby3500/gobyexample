@@ -1,0 +1,10 @@
+# Compiled Go binaries
+lesson_1/hello-world
+
+# Common binary extensions
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
